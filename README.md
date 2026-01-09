@@ -1,3 +1,4 @@
 # Learning Goals
 
-to learn git
+To learn git
+To Learn Java
